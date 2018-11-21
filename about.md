@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+PowerShell changed my career and set me on an exciting path of learning.  Creating this site is another way I am learning and growing.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Fine-tuning the future.
 
 ### Contact me
 
